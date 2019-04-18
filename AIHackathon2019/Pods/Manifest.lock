@@ -1,0 +1,24 @@
+PODS:
+  - Hero (1.4.0)
+  - MKRingProgressView (2.2.1)
+  - SPPermission (3.0.3)
+
+DEPENDENCIES:
+  - Hero
+  - MKRingProgressView
+  - SPPermission
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Hero
+    - MKRingProgressView
+    - SPPermission
+
+SPEC CHECKSUMS:
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  MKRingProgressView: 70e6d042f6fb0edf24a3985da8e1701fa3efb97d
+  SPPermission: e73763baa7785bb53cd6a95a021ef2a40ec1bf04
+
+PODFILE CHECKSUM: 143acf739bf7995c13538076af55c45927e52e21
+
+COCOAPODS: 1.6.0

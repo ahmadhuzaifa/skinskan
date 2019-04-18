@@ -19,8 +19,8 @@
 		7C9E9DEA2250363C0075B382 /* pageviewcontroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9E9DE92250363C0075B382 /* pageviewcontroller.swift */; };
 		7CD1DB192250F7E6001B136B /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CD1DB182250F7E6001B136B /* ViewController1.swift */; };
 		7CD1DB1C225113C0001B136B /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CD1DB1B225113C0001B136B /* ViewController2.swift */; };
-		7CD1DB2E225141B6001B136B /* thefinal.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7CD1DB2D225141B6001B136B /* thefinal.mlmodel */; };
 		7CD1DB332251479B001B136B /* RingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CD1DB322251479B001B136B /* RingViewController.swift */; };
+		7CD2AE1A22692CD200D96ABC /* thefinal.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7CD2AE1922692CD100D96ABC /* thefinal.mlmodel */; };
 		8D7238266F34A106C34AEFB2 /* Pods_AI_Hackathon_2019Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A300D6A0F1170E4BE6F817A /* Pods_AI_Hackathon_2019Tests.framework */; };
 		DE164C49F3ABFEE9303FA748 /* Pods_AI_Hackathon_2019.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 583E716D2C33B82537623D9C /* Pods_AI_Hackathon_2019.framework */; };
 /* End PBXBuildFile section */
@@ -55,8 +55,8 @@
 		7C9E9DE92250363C0075B382 /* pageviewcontroller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pageviewcontroller.swift; sourceTree = "<group>"; };
 		7CD1DB182250F7E6001B136B /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 		7CD1DB1B225113C0001B136B /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
-		7CD1DB2D225141B6001B136B /* thefinal.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = thefinal.mlmodel; path = ../../Downloads/thefinal.mlmodel; sourceTree = "<group>"; };
 		7CD1DB322251479B001B136B /* RingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingViewController.swift; sourceTree = "<group>"; };
+		7CD2AE1922692CD100D96ABC /* thefinal.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = thefinal.mlmodel; sourceTree = "<group>"; };
 		85062E33FB9A0DA8CE9249E0 /* Pods-AI Hackathon 2019Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AI Hackathon 2019Tests.debug.xcconfig"; path = "Target Support Files/Pods-AI Hackathon 2019Tests/Pods-AI Hackathon 2019Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		AAB556492B9EE63B50B264A8 /* Pods-AI Hackathon 2019.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AI Hackathon 2019.debug.xcconfig"; path = "Target Support Files/Pods-AI Hackathon 2019/Pods-AI Hackathon 2019.debug.xcconfig"; sourceTree = "<group>"; };
 		AB1644459CFD8989CB297D33 /* Pods-AI Hackathon 2019Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AI Hackathon 2019Tests.release.xcconfig"; path = "Target Support Files/Pods-AI Hackathon 2019Tests/Pods-AI Hackathon 2019Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -118,8 +118,8 @@
 			children = (
 				7CD1DB1A225113A6001B136B /* Introduction  */,
 				7C2DC585225011690065D806 /* AppDelegate.swift */,
-				7CD1DB2D225141B6001B136B /* thefinal.mlmodel */,
 				7C2DC587225011690065D806 /* ViewController.swift */,
+				7CD2AE1922692CD100D96ABC /* thefinal.mlmodel */,
 				7C2DC589225011690065D806 /* Main.storyboard */,
 				7C2DC58C2250116C0065D806 /* Assets.xcassets */,
 				7C2DC58E2250116C0065D806 /* LaunchScreen.storyboard */,
@@ -344,8 +344,8 @@
 				7C2DC588225011690065D806 /* ViewController.swift in Sources */,
 				7C2DC586225011690065D806 /* AppDelegate.swift in Sources */,
 				7C8475C522504910003AD75F /* imageViewController.swift in Sources */,
-				7CD1DB2E225141B6001B136B /* thefinal.mlmodel in Sources */,
 				7C9E9DEA2250363C0075B382 /* pageviewcontroller.swift in Sources */,
+				7CD2AE1A22692CD200D96ABC /* thefinal.mlmodel in Sources */,
 				7C8475C722504BB2003AD75F /* CameraController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

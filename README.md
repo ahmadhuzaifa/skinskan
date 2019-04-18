@@ -51,10 +51,10 @@ Run ToCoreML.ipynb and upload your Keras model.
 
 ## Screenshots
 
-  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/1.PNG">
-  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/2.PNG">
-  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/3.PNG">
-  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/4.PNG">
+  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/1.PNG" width="450" height="800">
+  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/2.PNG" width="450" height="800">
+  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/3.PNG" width="450" height="800">
+  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/4.PNG" width="450" height="800">
 
 
 

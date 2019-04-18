@@ -49,3 +49,12 @@ Run ToCoreML.ipynb and upload your Keras model.
 
 **An iPhone should be used because the application requires a camera to run**
 
+## Screenshots
+
+  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/1.PNG">
+  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/2.PNG">
+  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/3.PNG">
+  <img src= "https://github.com/ahmadhuzaifa/skinskan/blob/master/images/4.PNG">
+
+
+

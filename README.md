@@ -21,37 +21,31 @@ The Stanford research paper had 55.4 ±  1.7% CNN accuracy (trained with Incepti
 All the training data is from dermatoscope imaging. Thus, our project is meant for non-clinical use but for individuals who notice a lesion and would like a quick yet accurate diagnosis via dermatoscope attachment to smartphone either for personal use or for one-time use at local pharmacies such as a CVS. While the model can run on normal close-up smartphone images, lighting will be nonideal and the image may be blurry, providing less accurate results. There are other applications in smartphone app stores that focus on this more layman imaging.
 
 
-AI HACKATHON ZIP has the iOS app
-# To convert the Keras model into CoreML:
+The file labelled AIHACKATHON2019 has the iOS app.
+##  To convert the Keras model into CoreML:
 Run ToCoreML.ipynb and upload your Keras model.
 
-# Running the app
+## Running the app
 **Note: The project was created using Xcode and requires Xcode, an apple developer profile and an iPhone to run.**
 
-To start unzip the folder labelled “AIHackathon2019.zip” and then open the folder called “AIHackathon2019”.
 
-Next open the “AI Hackathon 2019.xcworkspace” file (the white file).
+* Open the “AI Hackathon 2019.xcworkspace” file (the white file).
 
-You will then be prompted to the Xcode project. 
+* You will then be prompted to the Xcode project. 
 
-Before we get started you’ll have sign in as a developer in the “Signing” section which can be found in the project settings.
+* Before we get started you’ll have sign in as a developer in the “Signing” section which can be found in the project settings.
 
-You’ll also have to change the bundle identifier to something different 
+* You’ll also have to change the bundle identifier to something different 
 
-Now connect your iPhone using a lightning cable to your Mac and run 
+* Now connect your iPhone using a lightning cable to your Mac and run 
 
-Verify the app on your iPhone if asked (Apple and its privacy ;( )
+* Verify the app on your iPhone if asked (Apple and its privacy ;( )
 
-Upon running the app you will be greeted with two introductory screens. Swipe through and click “Get Started”
+* Upon running the app you will be greeted with two introductory screens. Swipe through and click “Get Started”
 
-Scan your skin and the application will print its predictions in the debug log
+* Scan your skin and the application will print its predictions in the debug log
 
-The application returns an array of predictions for Actinic Keratosis positive, actinic Keratosis negative, melanoma positive,  melanoma negative, respectively.
+* The application returns an array of predictions for Actinic Keratosis positive, actinic Keratosis negative, melanoma positive,  melanoma negative, respectively.
 
-An iPhone should be used because the application requires a camera to run
-
-Here are some links you might find useful!
-https://medium.com/@akshaygawade91/xcode-9-0-beta-wireless-debugging-on-ios-11-4892039f52b9
-https://www.twilio.com/blog/2018/07/how-to-test-your-ios-application-on-a-real-device.html
-
+**An iPhone should be used because the application requires a camera to run**
 

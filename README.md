@@ -1,6 +1,6 @@
 # Skinskan
 _This project won first place for the global AI Health Hackathon._
-
+https://twitter.com/sirajraval/status/1122973844409503744?lang=en
 Sacramento Health AI Hackathon Project - Consumer Skin Cancer Recognition App
 
 By Rithwik Sudharsan, Edison Li, Alex Fung, Mario Ishhe, and Huzaifa Ahmad
